@@ -81,6 +81,7 @@ var mOriginalAddresses = [
     ["a70.jpg", "7117-7167 E. Rancho Vista Dr. (odd)"],
     ["a99.jpg", "7126 E. Osborn Rd."],
     ["a71.jpg", "7333 E. Chaparral Rd."],
+    ["a117.jpg", "7350 E. Stetson Dr."],
     ["a72.jpg", "7430, 7436 E. Chaparral Rd."],
     ["a73.jpg", "7440 E. Thomas Rd."],
     ["a74.jpg", "7474, 7494 E. Earll Dr."],
