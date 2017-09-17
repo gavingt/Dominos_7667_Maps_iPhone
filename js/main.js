@@ -101,6 +101,7 @@ var mOriginalAddresses = [
     ["a79.jpg", "7777 E. Main St."],
     ["a80.jpg", "7800-7970 E. Camelback Rd. (even)"],
     ["a116.jpg", "7955 E. Chaparral Rd."],
+    ["a38.jpg", "7979 E. Camelback Rd."],
     ["a81.jpg", "8002-8272 E. Oak St. (even)"],
     ["a31.jpg", "8015-8163 E. Glenrosa Ave. (odd)"],
     ["a14.jpg", "8020 E. Thomas Rd."],
