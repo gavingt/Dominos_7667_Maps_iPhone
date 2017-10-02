@@ -117,7 +117,7 @@ var mOriginalAddresses = [
     ["a1.jpg", "8210-8221 E. Garfield St. (even/odd)"],
     ["a10.jpg", "8223-8367 E. Thomas Rd. (odd)"],
     ["a25.jpg", "8301-8391 E. Indian School Rd. (odd)"],
-    ["a45.jpg", "8303-8329 E. Vista Dr. (odd)"],
+    ["a45.jpg", "8303-8345 E. Vista Dr. (odd)"],
     ["a45.jpg", "8304-8348 E. Orange Blossom Ln. (even/odd)"],
     ["a108.jpg", "8330 E. Osborn Rd. (school lunch)"],
     ["a87.jpg", "8350 E. McKellips Rd."],
